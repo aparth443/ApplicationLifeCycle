@@ -1,6 +1,7 @@
 # ApplicationLifeCycle
 Understanding iOS Application Life Cycle
 
+```
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
@@ -39,7 +40,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         print(#function)
     }
 }
-
+```
 
 Above are various states of application life cycle.
 
